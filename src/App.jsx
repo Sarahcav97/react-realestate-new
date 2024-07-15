@@ -1,5 +1,6 @@
+import './layout.scss';
+
 function App() {
-	return <div>Hello World</div>;
+	return <div className='layout'>Hellooooo</div>;
 }
-console.log('saved');
 export default App;
